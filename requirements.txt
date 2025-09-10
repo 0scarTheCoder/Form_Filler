@@ -1,0 +1,10 @@
+selenium==4.15.2
+webdriver-manager==4.0.1
+pyautogui==0.9.54
+pillow==10.1.0
+opencv-python==4.8.1.78
+pytesseract==0.3.10
+anthropic==0.7.8
+cryptography==41.0.7
+python-dotenv==1.0.0
+pydantic==2.5.0
