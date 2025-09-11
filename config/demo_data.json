@@ -1,40 +1,41 @@
 {
   "personal_info": {
-    "first_name": "John",
-    "last_name": "Doe",
-    "email": "john.doe@email.com",
-    "phone": "(555) 123-4567",
+    "first_name": "Oscar",
+    "middle_name": "Harold",
+    "last_name": "Love",
+    "email": "loevoh19@email.com",
+    "phone": "(+61) 466-717-580",
     "address": {
-      "street": "123 Main Street",
-      "city": "San Francisco",
-      "state": "CA",
-      "zip_code": "94105",
-      "country": "USA"
+      "street": "17 Richardson Street",
+      "city": "Perth",
+      "state": "WA",
+      "zip_code": "6005",
+      "country": "AUS"
     },
-    "linkedin": "https://linkedin.com/in/johndoe",
-    "website": "https://johndoe.dev"
+    "linkedin": "https://www.linkedin.com/in/oscar-love-547120275/",
+    "website": "https://myresume-115cf.web.app/"
   },
   "education": {
-    "degree": "Bachelor of Science in Computer Science",
-    "field_of_study": "Computer Science",
-    "university": "University of California, Berkeley",
-    "graduation_year": "2024",
-    "gpa": "3.8"
+    "degree": "Bachelor of Philosophy (honours) in Computer Science and software engineering",
+    "field_of_study": "Data science, maths and stats",
+    "university": "University of Western Australia",
+    "graduation_year": "2025",
+    "gpa": "3.08"
   },
   "work_authorization": {
-    "country": "USA",
+    "country": "AUS",
     "visa_status": "citizen",
     "requires_sponsorship": false
   },
   "files": {
-    "resume_path": "/Users/oscar/Documents/resume.pdf",
-    "cover_letter_path": "/Users/oscar/Documents/cover_letter.pdf",
-    "transcript_path": "/Users/oscar/Documents/transcript.pdf"
+    "resume_path": "/Users/oscar/Downloads/oscar-love-resume/oscar-love-resume/OSCAR_LOVE_resume.docx",
+    "cover_letter_path": "/Users/oscar/Downloads/oscar-love-resume/oscar-love-resume/OSCAR_LOVE_resume.docx",
+    "transcript_path": "/Users/oscar/Downloads/University_Transcript.pdf"
   },
   "preferences": {
     "salary_expectation": "$75,000 - $90,000",
-    "start_date": "2024-01-15",
+    "start_date": "2026-01-15",
     "remote_work": true,
-    "willing_to_relocate": false
+    "willing_to_relocate": true
   }
 }
